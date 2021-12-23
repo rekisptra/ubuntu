@@ -17,5 +17,5 @@ kode untuk menjalankan ubuntu di termux
 
  ./start-ubuntu.sh
 
-untuk selengkapnya cek di 
+untuk selengkapnya cek di https://rekixploit.blogspot.com/2021/12/tutorial-install-ubuntu-di-termux.html?m=1
 
